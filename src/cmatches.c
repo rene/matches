@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (C) 2014 Renê de Souza Pinto. All rights reserved.
  *
  * Author: Renê S. Pinto
